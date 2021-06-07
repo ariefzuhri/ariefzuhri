@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariefzuhri&layout=compact)](#)
+
+[![ariefzuhri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariefzuhri&count_private=true&show_icons=true&hide=issues)](#)
+
 <!--
 **ariefzuhri/ariefzuhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
