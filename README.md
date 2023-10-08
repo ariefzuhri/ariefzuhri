@@ -3,13 +3,13 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-D65D4F?style=for-the-badge&logo=figma&logoColor=white)](#)
 <br><br>
-I'm a passionate Android developer with a knack for creating delightful user experiences. My journey in the tech world is guided by the desire to craft captivating and efficient mobile applications. I'm enthusiastic about UI/UX design, and I thrive on using cutting-edge technologies to bring my ideas to life.
+I'm a dedicated Android developer with a passion for writing clean and efficient code. My journey in the world of mobile app development is guided by a commitment to best coding practices and creating engaging user experiences.
 <br><br>
 
 ### 🚀 About Me
-- 💻 **Mobile App Development**: I'm well-versed in Android Studio, Kotlin, Compose, Room, RxJava, Hilt, Koin, Coroutines, and Firebase.
-- 🔍 **Interests**: My interests revolve around mobile application development, coding best practices, software architecture, design patterns, algorithms, and software security.
-- 📚 **Open for Collaboration**: I'm eager to collaborate on research projects related to my interests and contribute to projects that have a positive impact on society.
+- 💻 **Tech-stack**: I'm proficient in Android Studio, Kotlin, Compose, Coroutines, RxJava, Hilt, Koin, Room, and Firebase.
+- 🔍 **Interests**: My interests revolve around mobile application development, clean code practices, software architecture, design patterns, algorithms, and mobile application security.
+- 🧪 **Collaborative**: I'm eager to collaborate on research projects related to my interests and contribute to projects that have a positive impact on society.
 - 📜 **Certifications**: Check out my [competency certificate](https://www.dicoding.com/certificates/MEPJLJ94WZ3V) on Dicoding, accredited by Google.
 <br><br>
 
