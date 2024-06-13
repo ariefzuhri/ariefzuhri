@@ -6,7 +6,7 @@
 
 ### About Me.
 - 🛠️ **Tech-stack**: Kotlin, Compose, Coroutines, RxJava, Hilt, Koin, Room, Firebase.
-- 🔍 **Interests**: Clean code, AI (fascinated by the future of AI), UI/UX design.
+- 🔍 **Interests**: Clean code, AI, UI/UX design.
 - 🧪 **Collaboration**: I'm eager to collaborate on impactful and meaningful projects ✨.
 - 📜 **Certifications**: [Become an Android Developer Expert](https://www.dicoding.com/certificates/MEPJLJ94WZ3V) (Dicoding).
 </br>
