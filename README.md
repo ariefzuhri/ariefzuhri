@@ -1,14 +1,17 @@
 ## 👋 Hi there! I'm Arief.
-[![Android](https://img.shields.io/badge/Android-2AB16A?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=oracle&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-D65D4F?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 </br></br>
 
 ### About Me.
-- 🛠️ **Tech-stack**: Kotlin, Compose, Coroutines, RxJava, Hilt, Koin, Room, Firebase.
-- 🔍 **Interests**: Clean code, AI, UI/UX design.
-- 🧪 **Collaboration**: I'm eager to collaborate on impactful and meaningful projects ✨.
-- 📜 **Certifications**: [Become an Android Developer Expert](https://www.dicoding.com/certificates/MEPJLJ94WZ3V) (Dicoding).
+- 🛠️ **Tech-stack**: Java, Kotlin, Python, Compose, Coroutines, Hilt, Koin, Room, RxJava, Azure AI, Figma, Firebase.
+- 🔍 **Interests**: AI, clean code, UI/UX design.
+- 📜 **Certifications**: <a href="https://www.dicoding.com/certificates/MEPJLJ94WZ3V" target="_blank">Android Developer Expert</a> (Dicoding), <a href="https://learn.microsoft.com/api/credentials/share/en-us/ariefzuhri/1918AFAF69088540" target="_blank">Azure AI Engineer Associate</a> (Microsoft).
+- 🧪 **Collaboration**: I'm eager to collaborate on impactful and meaningful scientific projects.
 </br>
 
 ### Stats.
