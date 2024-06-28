@@ -10,7 +10,8 @@
 ### About Me.
 - 🛠️ **Tech-stack**: Java, Kotlin, Python, Compose, Coroutines, Hilt, Koin, Room, RxJava, Azure AI, Figma, Firebase.
 - 🔍 **Interests**: AI, clean code, UI/UX design.
-- 📜 **Certifications**: <a href="https://www.dicoding.com/certificates/MEPJLJ94WZ3V" target="_blank">Android Developer Expert</a> (Dicoding), <a href="https://learn.microsoft.com/api/credentials/share/en-us/ariefzuhri/1918AFAF69088540" target="_blank">Azure AI Engineer Associate</a> (Microsoft).
+- 🎓 **Education**: Bachelor of Applied Computer Science in Software Engineering (Gadjah Mada University).
+- 📜 **Certifications**: [Android Developer Expert](https://www.dicoding.com/certificates/MEPJLJ94WZ3V) (Dicoding), [Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/ariefzuhri/1918AFAF69088540) (Microsoft).
 - 🧪 **Collaboration**: I'm eager to collaborate on impactful and meaningful scientific projects.
 </br>
 
