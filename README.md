@@ -23,7 +23,7 @@
 </br></br>
 
 ### Let's Connect!
-- 📧 **Email**: [ariefzuhri72@gmail.com](mailto:ariefzuhri72@gmail.com) (Arief Zuhri).
+- 📧 **Email**: [ariefzuhri@outlook.co.id](mailto:ariefzuhri@outlook.co.id) (Arief Zuhri).
 </br>
 
 Feel free to explore my repositories and reach out if you have any questions!
